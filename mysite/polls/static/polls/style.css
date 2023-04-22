@@ -1,0 +1,20 @@
+li a {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    background-color: #ffc107; /* add a background color */
+    border-radius: 10px; /* add rounded edges */
+}
+
+/* Style the link on hover */
+li a:hover {
+    color: white;
+    background-color: #fd7e14;
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
